@@ -11,3 +11,6 @@ say what it is now and how we can improve it by:
 - present plots using tree of current setup and what we want to achieve
 - describe each folder i'd like to start tracking.
 * Renv package
+
+# https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/
+# check this one
