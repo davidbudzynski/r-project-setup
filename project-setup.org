@@ -1,4 +1,5 @@
 #+TITLE: Setting up projects and project workflow
+#+AUTHOR: David Budzynski
 * why is project setup important
 * our current project setup
 * R Projects
