@@ -1,0 +1,12 @@
+#+TITLE: Setting up projects and project workflow
+* why is project setup important
+* our current project setup
+* R Projects
+** eliminates the need for setwd()
+** easy path referencing
+** sets up git
+* R project folder structure
+say what it is now and how we can improve it by:
+- present plots using tree of current setup and what we want to achieve
+- describe each folder i'd like to start tracking.
+* Renv package
